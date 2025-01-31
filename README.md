@@ -112,13 +112,6 @@ vercel --prod
 ```bash
 git push origin main  # Automatically deploys on push
 ```
-
----
-
-## ✨ Contributors
-
-- **Your Name** (@leoncvrtila)
-
 ---
 
 ## 📜 License
