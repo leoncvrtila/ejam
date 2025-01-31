@@ -1,0 +1,52 @@
+### Root .gitignore for Both Client and Server ###
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build Output
+dist/
+out/
+coverage/
+
+# TypeScript Build Files
+*.tsbuildinfo
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.tmp
+
+# Client-Specific Ignores
+/client/node_modules/
+/client/build/
+/client/.next/
+/client/.nuxt/
+/client/.cache/
+
+# Server-Specific Ignores
+/server/node_modules/
+/server/dist/
+/server/.cache/
