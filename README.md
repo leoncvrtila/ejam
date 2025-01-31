@@ -139,3 +139,16 @@ If I had more time, I would:
 - Add **translations** for multilingual support if needed.
 - Use a **database instead of in-memory storage** for better data persistence.
 - Introduce additional **common folders** (e.g., `common/` for shared utilities, components, and features) to improve code structure and reusability.
+
+## 🤝 Collaboration
+
+To improve or expand this project, collaboration with teammates could involve:
+
+- **Dividing tasks**: Assigning specific features (e.g., frontend UI, backend APIs, authentication) to different team members.
+- **Code reviews**: Ensuring best practices by reviewing each other’s code before merging.
+- **Branching strategy**: Using Git branches (`feature/*`, `bugfix/*`, `hotfix/*`) to keep the codebase organized.
+- **Daily stand-ups or async updates**: Communicating progress and blockers using Slack, Trello, or Notion.
+- **Testing & Debugging**: Writing unit and integration tests collaboratively to maintain quality.
+- **Enhancing documentation**: Keeping README, API docs, and comments up to date for better onboarding.
+
+By following these practices, we can ensure a **scalable, maintainable, and well-documented** project!
