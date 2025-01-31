@@ -124,3 +124,18 @@ git push origin main  # Automatically deploys on push
 ## 📜 License
 
 This project is licensed under the **MIT License**. Feel free to use and modify it!
+
+---
+
+## ⏳ If I Had More Time
+
+If I had more time, I would:
+
+- Implement **CI/CD pipelines** for automatic testing and deployment.
+- Optimize performance by **adding caching mechanisms** (e.g., Redis).
+- Enhance the frontend by implementing **server-side rendering (SSR) with Next.js**.
+- Improve authentication by integrating **OAuth and JWT token refresh strategies**.
+- Expand test coverage by adding **end-to-end (E2E) tests with Cypress**.
+- Add **translations** for multilingual support if needed.
+- Use a **database instead of in-memory storage** for better data persistence.
+- Introduce additional **common folders** (e.g., `common/` for shared utilities, components, and features) to improve code structure and reusability.
